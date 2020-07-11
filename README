@@ -1,1 +1,11 @@
 Selenium Training
+
+* add dependencies in the pom
+   - testNG
+   - junit
+   - selenium webdriver
+
+
+* add chrome/firefox browser configuration
+
+* set up example test using testng/junit
