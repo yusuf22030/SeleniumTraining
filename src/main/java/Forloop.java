@@ -3,7 +3,7 @@ public class Forloop {
     for (int i = 0; i <= 5; i++) {
 
 
-      System.out.println("yusuf " + i); //
+      System.out.println("yusuf hihiih hihiih hiih " + i); //
     }
   }
 }
