@@ -1,8 +1,6 @@
 gitcSelenium Training
 
 * add dependencies in the pom
-   - testNG
-   - junit
    - selenium webdriver
 
 
